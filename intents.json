@@ -774,6 +774,106 @@
       "responses": [
           "i have heard that 3 3 3 rule is the best method to reduce anxiety.in this method you have to mentally note\u00a0three\u00a0things you see,\u00a0three\u00a0sounds you hear, and then move\u00a0three\u00a0parts of your body.this exercise can help your mind refocus on something else.give this method a try i am sure it will help you"
       ]
+  },
+  {
+    "tag": "what is schizophrenia?",
+    "patterns": ["what is schizophrenia?"],
+    "responses": ["Schizophrenia is a severe mental disorder characterized by distorted thinking, hallucinations, delusions, and impaired social functioning."]
+  },
+  {
+    "tag": "what are the symptoms of schizophrenia?",
+    "patterns": ["what are the symptoms of schizophrenia?"],
+    "responses": ["Symptoms of schizophrenia include hallucinations, delusions, disorganized thinking, lack of motivation, and impaired social functioning."]
+  },
+  {
+    "tag": "what causes schizophrenia?",
+    "patterns": ["what causes schizophrenia?"],
+    "responses": ["The exact cause of schizophrenia is unknown, but a combination of genetic, environmental, and neurobiological factors is believed to contribute to its development."]
+  },
+  {
+    "tag": "is schizophrenia hereditary?",
+    "patterns": ["is schizophrenia hereditary?"],
+    "responses": ["There is a genetic component to schizophrenia, and individuals with a family history of the disorder may have a higher risk of developing it."]
+  },
+  {
+    "tag": "can trauma trigger schizophrenia?",
+    "patterns": ["can trauma trigger schizophrenia?"],
+    "responses": ["While trauma alone may not directly cause schizophrenia, it can be a contributing factor for individuals predisposed to the disorder."]
+  },
+  {
+    "tag": "how is schizophrenia diagnosed?",
+    "patterns": ["how is schizophrenia diagnosed?"],
+    "responses": ["Diagnosis of schizophrenia involves a comprehensive assessment, including clinical interviews, observation of symptoms, and sometimes, brain imaging or laboratory tests."]
+  },
+  {
+    "tag": "what is the prevalence of schizophrenia in India?",
+    "patterns": ["what is the prevalence of schizophrenia in India?"],
+    "responses": ["The prevalence of schizophrenia in India is estimated to be around 1% of the population, but rates may vary across different regions."]
+  },
+  {
+    "tag": "can schizophrenia be cured?",
+    "patterns": ["can schizophrenia be cured?"],
+    "responses": ["Schizophrenia is a chronic condition, but with appropriate treatment, including medication and therapy, individuals can manage symptoms and lead fulfilling lives."]
+  },
+  {
+    "tag": "are there different types of schizophrenia?",
+    "patterns": ["are there different types of schizophrenia?"],
+    "responses": ["Yes, schizophrenia is categorized into different types, including paranoid, disorganized, catatonic, residual, and undifferentiated schizophrenia."]
+  },
+  {
+    "tag": "does substance abuse contribute to schizophrenia?",
+    "patterns": ["does substance abuse contribute to schizophrenia?"],
+    "responses": ["Substance abuse, particularly during adolescence, can increase the risk of developing schizophrenia in individuals with a genetic predisposition."]
+  },
+  {
+    "tag": "how does schizophrenia affect daily life?",
+    "patterns": ["how does schizophrenia affect daily life?"],
+    "responses": ["Schizophrenia can significantly impact daily life, affecting relationships, work, and the ability to perform daily tasks due to cognitive and social challenges."]
+  },
+  {
+    "tag": "is schizophrenia more common in men or women?",
+    "patterns": ["is schizophrenia more common in men or women?"],
+    "responses": ["Schizophrenia is often diagnosed more frequently in men than in women, but the onset and presentation may vary between genders."]
+  },
+  {
+    "tag": "can schizophrenia be prevented?",
+    "patterns": ["can schizophrenia be prevented?"],
+    "responses": ["While it may not be entirely preventable, early intervention, supportive environments, and avoiding substance abuse can contribute to better outcomes for individuals at risk."]
+  },
+  {
+    "tag": "what is the role of medication in treating schizophrenia?",
+    "patterns": ["what is the role of medication in treating schizophrenia?"],
+    "responses": ["Medication, such as antipsychotics, is commonly prescribed to manage symptoms of schizophrenia and help individuals maintain stability."]
+  },
+  {
+    "tag": "can people with schizophrenia work?",
+    "patterns": ["can people with schizophrenia work?"],
+    "responses": ["Many individuals with schizophrenia can work and lead productive lives with the right support, including medication, therapy, and workplace accommodations."]
+  },
+  {
+    "tag": "is schizophrenia the same as multiple personality disorder?",
+    "patterns": ["is schizophrenia the same as multiple personality disorder?"],
+    "responses": ["No, schizophrenia and multiple personality disorder (now called dissociative identity disorder) are distinct mental health conditions with different symptoms and characteristics."]
+  },
+  {
+    "tag": "how does schizophrenia affect relationships?",
+    "patterns": ["how does schizophrenia affect relationships?"],
+    "responses": ["Schizophrenia can pose challenges in relationships due to difficulties in communication, social withdrawal, and the impact of symptoms on interpersonal dynamics."]
+  },
+  {
+    "tag": "what is the relationship between schizophrenia and creativity?",
+    "patterns": ["what is the relationship between schizophrenia and creativity?"],
+    "responses": ["There is some evidence suggesting a link between schizophrenia and creativity, but the relationship is complex and not fully understood."]
+  },
+  {
+    "tag": "can schizophrenia be managed without medication?",
+    "patterns": ["can schizophrenia be managed without medication?"],
+    "responses": ["While medication is a key component of treatment, some individuals may benefit from additional therapeutic interventions, but it's essential to consult with a mental health professional."]
+  },
+  {
+    "tag": "how does schizophrenia impact cognitive functioning?",
+    "patterns": ["how does schizophrenia impact cognitive functioning?"],
+    "responses": ["Schizophrenia can affect cognitive functions such as memory, attention, and problem-solving, making it important to address these aspects in treatment plans."]
   }
 ]
 }
